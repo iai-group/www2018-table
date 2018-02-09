@@ -19,11 +19,11 @@ The data we used are public data sets:
 ## Citation
 ```
 @inproceedings{Zhang:2018:AHT,
- author = {Zhang, Shuo and Balog, Krisztian},
- title = {Ad Hoc Table Retrieval using Semantic Similarity},
- booktitle = {Proceedings of the Web Conference 2018},
- year = {2018},
- pages = {},
+               author = {Zhang, Shuo and Balog, Krisztian},
+               title = {Ad Hoc Table Retrieval using Semantic Similarity},
+               booktitle = {Proceedings of the Web Conference 2018},
+               year = {2018},
+               pages = {},
 }
 ```
 
