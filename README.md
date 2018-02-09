@@ -7,7 +7,7 @@ This study is an effort aimed at reproducing the result presented in the table r
 
 This repository is structured as follows:
 
-- data/: query file(./query/), ground truth file(./qrel/) and run files(./result/)
+- 'data/': query file('./query/'), ground truth file('./qrel/') and run files('./result/')
 
 
 ## Data
