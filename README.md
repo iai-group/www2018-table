@@ -7,9 +7,9 @@ This repository contains resources developed within the following paper:
 
 ## Test collection
 
-The table corpus is [WikiTables](http://websail-fe.cs.northwestern.edu/TabEL/), which comprises 1.6M tables extracted from Wikipedia. We proproceeed it and make it public downloadable [here](http://iai.group/downloads/smart_table/WP_tables.zip)
+The table corpus is [WikiTables](http://websail-fe.cs.northwestern.edu/TabEL/), which comprises 1.6M tables extracted from Wikipedia. We proproceeed it and make it public downloadable [here](http://iai.group/downloads/smart_table/WP_tables.zip).
 
-The `data/queries.txt` file contains the search queries. Queries #1-#30 queries constitute *Query subset 1 (QS-1)*, queries #31-#60 constitute *Query subset 2 (QS-2)*
+The `data/queries.txt` file contains the search queries. Queries #1-#30 queries constitute *Query subset 1 (QS-1)*, queries #31-#60 constitute *Query subset 2 (QS-2)*.
 
 The `data/qrels.txt` file contains the relevance assessments (in TREC qrels format).  
 
