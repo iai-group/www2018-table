@@ -43,7 +43,7 @@ The evaluation scores are reported using [trec_eval](https://github.com/usnistgo
     title = {Ad Hoc Table Retrieval using Semantic Similarity},
     booktitle = {Proceedings of the Web Conference 2018},
     year = {2018},
-    pages = {},
+    pages = {1553--1562},
 }
 ```
 
