@@ -13,6 +13,11 @@ The `data/queries.txt` file contains the search queries. Queries #1-#30 queries 
 
 The `data/qrels.txt` file contains the relevance assessments (in TREC qrels format).  
 
+## Data
+
+We utilize word2vec trained on Google news, and you can find it [here](https://github.com/mmihaltz/word2vec-GoogleNews-vectors). You can find the graph embeddings [here](http://data.dws.informatik.uni-mannheim.de/rdf2vec/).
+
+
 
 ## Methods and results
 
