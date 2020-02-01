@@ -53,4 +53,4 @@ The evaluation scores are reported using [trec_eval](https://github.com/usnistgo
 ```
 
 ## Contact
-If you have any questions, please contact Shuo Zhang at shuo.zhang@uis.no.
+If you have any questions, please contact Shuo Zhang at imsure318@gmail.com.
